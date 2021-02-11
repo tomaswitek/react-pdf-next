@@ -12,5 +12,9 @@
     "next": "10.0.3",
     "react": "17.0.1",
     "react-dom": "17.0.1"
+  },
+  "devDependencies": {
+    "brfs": "^2.0.2",
+    "transform-loader": "^0.2.4"
   }
 }
